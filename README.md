@@ -1,4 +1,4 @@
-## <https://bomao8.github.io> 👋
+## 博猫平台 👋
 
 <https://bomao8.github.io>
 
