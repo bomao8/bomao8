@@ -1,4 +1,6 @@
-## Hi there 👋
+## <https://bomao8.github.io> 👋
+
+<https://bomao8.github.io>
 
 <!--
 **bomao8/bomao8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
